@@ -17,7 +17,7 @@ VALUES
 CREATE TABLE Trybefy.albums (
     id INTEGER AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(50) NOT NULL,
-    release_year INTEGER,
+    release_year INTEGER NOT NULL,
     artist_id INTEGER NOT NULL,
     FOREIGN KEY (artist_id) REFERENCES Trybefy.artists(id)
 );
