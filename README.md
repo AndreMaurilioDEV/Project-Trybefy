@@ -1,4 +1,4 @@
-### Projeto Trybefy
+## Projeto Trybefy
 #### Projeto avaliativo da Trybe da seção de Introdução à MySql pelo Módulo de Back-End
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
